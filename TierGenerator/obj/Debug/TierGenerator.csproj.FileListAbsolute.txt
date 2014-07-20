@@ -1,0 +1,10 @@
+D:\Learning\C#\TierGenerator\bin\Debug\TierGenerator.exe.config
+D:\Learning\C#\TierGenerator\bin\Debug\TierGenerator.exe
+D:\Learning\C#\TierGenerator\bin\Debug\TierGenerator.pdb
+D:\Learning\C#\TierGenerator\obj\Debug\TierGenerator.LoginScreen.resources
+D:\Learning\C#\TierGenerator\obj\Debug\TierGenerator.MainScreen.resources
+D:\Learning\C#\TierGenerator\obj\Debug\TierGenerator.Properties.Resources.resources
+D:\Learning\C#\TierGenerator\obj\Debug\TierGenerator.csproj.GenerateResource.Cache
+D:\Learning\C#\TierGenerator\obj\Debug\TierGenerator.exe
+D:\Learning\C#\TierGenerator\obj\Debug\TierGenerator.pdb
+D:\Learning\C#\TierGenerator\obj\Debug\TierGenerator.csprojResolveAssemblyReference.cache
