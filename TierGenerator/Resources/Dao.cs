@@ -12,7 +12,7 @@ namespace $PROJECT_NAMESPACE$.Dao
 	/// <summary>
 	/// Data access layer class for $CLASS_NAME$
 	/// </summary>
-	public class $CLASS_NAME$Dao
+	public partial class $CLASS_NAME$Dao
 	{
 
         #region Constructor
@@ -63,7 +63,7 @@ $INSERT_PARAMETER$
 
                     //elementBdo.RowVersion = elementInDb.RowVersion;
 
-                    if (num == 1) return ret;
+                    if (num >= 1) return ret;
                     ret = false;
                     message = "Error al agregar";
                 }
@@ -105,7 +105,7 @@ $UPDATE_PARAMETER$
 
                     //elementBdo.RowVersion = elementInDb.RowVersion;
 
-                    if (num == 1) return ret;
+                    if (num >= 1) return ret;
                     ret = false;
                     message = "El elemento no fue actualizado";
                 }

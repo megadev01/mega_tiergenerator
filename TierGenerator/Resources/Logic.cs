@@ -7,7 +7,7 @@ using $PROJECT_NAMESPACE$.Bdo;
 
 namespace $PROJECT_NAMESPACE$.Logic
 {
-    public class $CLASS_NAME$Logic
+    public partial class $CLASS_NAME$Logic
     {
 
         #region data Members
