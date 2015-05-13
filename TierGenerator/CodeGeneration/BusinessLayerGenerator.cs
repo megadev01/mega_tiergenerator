@@ -490,7 +490,7 @@ namespace TierGenerator.CodeGeneration
 
             fileText.AppendLine("namespace " + TierGeneratorSettings.Instance.ProjectNameSpace + ".Bdo");
             fileText.AppendLine("{");
-            fileText.AppendLine("\tpublic class " + table.ClassName + "Bdo : BdoObjectBase");
+            fileText.AppendLine("\tpublic partial class " + table.ClassName + "Bdo : BdoObjectBase");
             fileText.AppendLine("\t{");
 
 

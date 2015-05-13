@@ -8,3 +8,13 @@ D:\Learning\C#\TierGenerator\obj\Debug\TierGenerator.csproj.GenerateResource.Cac
 D:\Learning\C#\TierGenerator\obj\Debug\TierGenerator.exe
 D:\Learning\C#\TierGenerator\obj\Debug\TierGenerator.pdb
 D:\Learning\C#\TierGenerator\obj\Debug\TierGenerator.csprojResolveAssemblyReference.cache
+D:\Sistemas\GitHub\mega_tiergenerator\TierGenerator\bin\Debug\TierGenerator.exe.config
+D:\Sistemas\GitHub\mega_tiergenerator\TierGenerator\obj\Debug\TierGenerator.exe
+D:\Sistemas\GitHub\mega_tiergenerator\TierGenerator\obj\Debug\TierGenerator.pdb
+D:\Sistemas\GitHub\mega_tiergenerator\TierGenerator\bin\Debug\TierGenerator.exe
+D:\Sistemas\GitHub\mega_tiergenerator\TierGenerator\bin\Debug\TierGenerator.pdb
+D:\Sistemas\GitHub\mega_tiergenerator\TierGenerator\obj\Debug\TierGenerator.csprojResolveAssemblyReference.cache
+D:\Sistemas\GitHub\mega_tiergenerator\TierGenerator\obj\Debug\TierGenerator.LoginScreen.resources
+D:\Sistemas\GitHub\mega_tiergenerator\TierGenerator\obj\Debug\TierGenerator.MainScreen.resources
+D:\Sistemas\GitHub\mega_tiergenerator\TierGenerator\obj\Debug\TierGenerator.Properties.Resources.resources
+D:\Sistemas\GitHub\mega_tiergenerator\TierGenerator\obj\Debug\TierGenerator.csproj.GenerateResource.Cache
